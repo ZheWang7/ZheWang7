@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Zhe Wang from Shanghai. China<br><br>- 🔭 I’m a UofT student majoring in Computer Science and Statistics<br>- 📚 I'm currently learning Data Structures and Algorithms<br>- ⚡ In my free time I play video games and basketball, watch anime, and code!<br>- 📫 jameswangzhe1110@gmail.com</p>
+<p align="left">I'm Zhe Wang from Shanghai, China<br><br>- 🔭 I’m a UofT student majoring in Computer Science and Statistics<br>- 📚 I'm currently learning Data Structures and Algorithms<br>- ⚡ In my free time I play video games and basketball, watch anime, and code!<br>- 📫 jameswangzhe1110@gmail.com</p>
 
 ###
 
