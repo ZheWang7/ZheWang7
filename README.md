@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Language</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
@@ -47,6 +47,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
   <img width="12" />
